@@ -1,1 +1,1 @@
-Contains code of algorithm taught in DIP classes
+ codes taught in Digital Image Processing. classes
